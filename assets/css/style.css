@@ -226,7 +226,7 @@ h1.myName {
     #bio-image img{
         float: none;
         margin: 0 auto;
-        margin-left: 150px;
+        margin-left: 30%;
     }
 
     .pageTop {
@@ -247,7 +247,7 @@ h1.myName {
         float: none;
         margin: 10px;
         padding: 0px;
-        left: 150px;
+        left: 20%;
     }
 
     .content {
@@ -264,7 +264,7 @@ h1.myName {
     }
 
     .portfolio-gallery {
-        width: 400px;
+        width: 90%;
         float: none;
         margin: 0 auto;
         margin-left: 50px;
@@ -275,7 +275,7 @@ h1.myName {
     }
 
     h2 {
-        width: 176px;
+        width: 80%;
     }
 
     .footer {
