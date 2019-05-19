@@ -48,6 +48,7 @@ h2 {
     text-align: center;
     position: relative;
     padding-top: 5px;
+    margin-left: 10px;
     width: 240px;
     height: 30px;
     bottom: 65px;
@@ -74,6 +75,10 @@ span {
     margin: 30px;
     width: 300px;
     float: left;
+}
+
+.portfolio-gallery:hover {
+    opacity: 0.5;
 }
 
 .portfolio-gallery img {
