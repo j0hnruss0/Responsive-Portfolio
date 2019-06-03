@@ -100,7 +100,7 @@ span {
     background: #ffffff;
     padding: 20px;
     margin: 20px auto;
-    margin-bottom: 100px!important;
+    margin-bottom: 100px;
 }
 
 ul.tab-links {
@@ -252,14 +252,14 @@ h1.myName {
         float: none;
         margin: 10px;
         padding: 0px;
-        left: 20%;
+        left: 15%;
     }
 
     .content {
         width: 88%;
         float: none;
         margin: 10px;
-        margin-bottom: 200px!important;
+        margin-bottom: 200px;
     }
 
     .section {
