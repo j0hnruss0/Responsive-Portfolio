@@ -96,11 +96,16 @@ span {
 
 .content {
     width: 960px;
+    min-height: 600px;
     border: 1px solid #cccccc;
     background: #ffffff;
     padding: 20px;
     margin: 20px auto;
     margin-bottom: 100px;
+}
+
+.port-content {
+    min-height: 1200px;
 }
 
 ul.tab-links {
@@ -113,8 +118,8 @@ h1.myName {
     color: #ffffff;
     background: #4aaaa5;
     margin: auto;
-    width: 200px;
-    height: 50px;
+    width: 20%;
+    height: 100%;
     text-align: center;
     padding-top: 12px;
     float: left;
@@ -155,11 +160,12 @@ h1.myName {
 
     .pageTop {
         padding: 0px;
+        height: 10%;
+        width: 100%;
     }
 
     h1.myName {
-        width: 150px;
-        height: 75%;
+        height: 78%;
         margin-left: 10px;
         font-size: 20px;
     }
@@ -200,11 +206,6 @@ h1.myName {
         width: 89%;
         float: none;
         margin: 15px;
-    }
-
-    .pageTop {
-        height: 10%;
-        width: 100%;
     }
 
     ul {
@@ -259,7 +260,10 @@ h1.myName {
         width: 88%;
         float: none;
         margin: 10px;
-        margin-bottom: 200px;
+    }
+
+    .port-content {
+        min-height: 1600px;
     }
 
     .section {
