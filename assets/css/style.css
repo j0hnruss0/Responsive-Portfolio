@@ -151,6 +151,26 @@ h1.myName {
     height: 200px;
 }
 
+#github-badge,
+.LI-profile-badge {
+    float: left;
+    margin: 5px;
+}
+
+#github-badge {
+    max-width: 150px;
+    max-height: 170px;
+    border: 1px solid rgb(238, 237, 237);
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#github-logo {
+    width: 100%;
+    position: relative;
+    right: 5%;
+}
+
 @media screen and (max-width: 980px) {
     .content {
         width: 75%;
@@ -190,7 +210,7 @@ h1.myName {
     h2 {
         width: 176px;
     }
-    
+
     .r-p-s {
         font-size: 15px;
     } 
