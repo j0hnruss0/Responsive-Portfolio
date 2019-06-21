@@ -190,6 +190,11 @@ h1.myName {
     h2 {
         width: 176px;
     }
+    
+    .r-p-s {
+        font-size: 15px;
+    } 
+
     span {
         margin-left: 40%;
     }
